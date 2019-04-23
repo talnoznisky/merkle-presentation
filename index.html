@@ -9,6 +9,8 @@
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/black.css">
+		<script src="plugin/markdown/marked.js"></script>
+		<script src="plugin/markdown/markedown.js"></script>
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/monokai.css">
@@ -25,7 +27,13 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
+				<section data-markdown="CONTRIBUTING.md"
+				data-separator="^\n\n\n"
+				data-separator-vertical="^\n\n"
+				data-separator-notes="^Note:"
+				data-charset="iso-8859-15">
+					<!-- section to be filled out by MD files  -->
+				</section>
 				<section>Slide 2</section>
 			</div>
 		</div>
