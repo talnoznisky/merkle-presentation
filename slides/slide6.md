@@ -1,6 +1,6 @@
 ### The Pivot
 Optimization program running on the account management Search and Promote platform
-upon which we are:
+upon which I am:
 
 
 - Proving best practices for mobile design
