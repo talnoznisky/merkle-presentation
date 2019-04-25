@@ -1,11 +1,11 @@
 ### Epilogue
-New search experience is:
+![comparison-image](slides/comparison.jpg)
 
 
-- Extensible
+- Progressively enhanced mobile UX
 
 
-- Data-driven
+- Data-driven, extensible back end features
 
 
-- Model for optimization
+- Model for optimization in the company

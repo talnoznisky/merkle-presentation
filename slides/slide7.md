@@ -1,5 +1,5 @@
 ### Pitching the Pivot
-I must convince leadership to let me take the reins
+I must convince leadership to let me take the lead
 
 
 - Consolidate the design lessons

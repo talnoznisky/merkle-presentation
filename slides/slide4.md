@@ -9,10 +9,10 @@ All of that was already taken care of!
 Actually, all of if except the *deploy* part
 
 
-And the UX was really bad and untested.
+And the UX was completely un-researched, and barely approved by UX
 
 
-And there was no catalog data to configure against.
+And there was no real catalog data to develop against
 
 
-And the code base was developed in Angular without sufficient exposure for Target scripts.
+And the code base was developed in Angular without Target integration considerations

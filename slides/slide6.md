@@ -1,5 +1,5 @@
 ### The Pivot
-Optimization program running on the customer-facing Search and Promote platform
+Optimization program running on the account management Search and Promote platform
 upon which we are:
 
 
